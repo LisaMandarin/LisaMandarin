@@ -9,6 +9,7 @@ I'm Min-ting Chuang, a Software Development student at Brigham Young University�
 - 💻 Currently focused on full-stack web development
 - 📚 Lifelong learner with a background in education and technology
 - 🧠 Problem-solver who loves turning real-world needs into digital solutions
+- 🔗 [See my coding journey](https://mtchuang.netlify.app/)
 
 ## 🛠️ Technologies & Tools
 
@@ -31,9 +32,10 @@ I'm Min-ting Chuang, a Software Development student at Brigham Young University�
 
 ## 📁 Featured Projects
 
-- 🔗 [Mission Points Tracker](https://github.com/LisaMandarin/mission-points-app): A Vue + Firebase app to motivate kids through task tracking
-- 🔗 [Inventory Dashboard](https://github.com/LisaMandarin/inventory-dashboard): A full-stack inventory management system using React and Express
-- 🔗 [SentenceWise](https://mtchuang.netlify.app): A personal site to help users learn English and Mandarin through context-based translation
+- 🔗 [Mission Points](https://github.com/LisaMandarin/mission-points): A Vue + Firebase app to motivate kids through task tracking
+- 🔗 [Handcrafted Haven](https://github.com/LisaMandarin/handcrafted-haven): A full-stack inventory management system using Next.js
+- 🔗 [Charity Bridge](https://github.com/LisaMandarin/Charity-Bridge): A community-driven app connecting volunteers and organizations for charitable causes using React + Appwrite
+- 🔗 [Note4English](https://github.com/LisaMandarin/note4English): A note taking site to help users learn English and Mandarin through context-based translation
 
 
 ## 🔗 Let's Connect!
