@@ -37,6 +37,14 @@ I'm Min-ting Chuang, a Software Development student at Brigham Young University�
 - 🔗 [Charity Bridge](https://github.com/LisaMandarin/Charity-Bridge): A community-driven app connecting volunteers and organizations for charitable causes using React + Appwrite
 - 🔗 [Note4English](https://github.com/LisaMandarin/note4English): A note taking site to help users learn English and Mandarin through context-based translation
 
+## 📊 GitHub Stats
+
+![Min-ting's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LisaMandarin&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LisaMandarin&layout=compact&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LisaMandarin&theme=default)
+
 
 ## 🔗 Let's Connect!
 
